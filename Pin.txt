@@ -1,0 +1,16 @@
+# MAX 7219 (Matrix LED)
+CS  --> D10
+CLK --> D13
+DIN --> D11
+
+# KY-040 (Rotary and Switch Encoder)
+CLK --> D4
+DT  --> D5
+SW  --> D3
+
+# DS3231 (Real Time Clock)
+SCL --> A5
+SDA --> A4
+
+# Buzzer
+OUT --> D6
