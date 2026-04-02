@@ -8,8 +8,6 @@ A digital clock with ds3231 that display using max7219 and can set the clock wit
 - click -> change the mode (hour, minute, save)
 
 ## Flowchart
-## Flowchart Algoritma Jam Digital
-
 ```mermaid
 flowchart TD
     A([Start]) --> B[/Load time from DS3231/]
